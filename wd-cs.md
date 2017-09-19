@@ -1,6 +1,6 @@
 # Web Development with Computer Science Foundations - comprehensive
 
-If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ. 
+If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ.
 It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - get started
@@ -8,15 +8,15 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
 - [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
 - [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
-- [ ]  Project: Portfolio from the frontend section of FCC  
+- [x]  Project: Portfolio from the frontend section of FCC  
 - [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 - [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
 - [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
-- [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
-- [ ]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
-- [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
+- [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
+- [ ]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
+- [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
 - [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
@@ -32,7 +32,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [ ]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)  
-- [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
+- [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
@@ -60,11 +60,11 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Complete all ES6 Katas [here](http://es6katas.org/)
 - [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)    
 - [ ]  Project: Complete all Classic Puzzles - Hard on [CodinGame](https://www.codingame.com/) in JavaScript    
-- [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) 
+- [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard)
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [ ]  Project: Clone the Netflix interface- pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
-- [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
+- [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ]  Project: Write the CSS Necessary to create your own 12 column based grid layout - see [here](http://960.gs/) for an example
 - [ ]  Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use it's assets)
 - [ ]  Project: Clone FaceBook - yes, all the functionality. See [here](http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project) for a list of requirements you should fullfill.
@@ -84,4 +84,3 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Extend your CSS grid framework to include the CSS and JavaScript required to implement 5 to 10 material design components
 - [ ]  Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)      
 - [ ]  Project: Clone Slack - the functionality should be complete to the point that one user can create a room, invite other users, and all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
-
