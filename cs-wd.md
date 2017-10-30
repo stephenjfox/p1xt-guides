@@ -14,7 +14,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
-- [ ]  Project: Portfolio from the frontend section of FCC  
+- [x]  Project: Portfolio from the frontend section of FCC  
 - [ ]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 - [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
@@ -32,7 +32,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
   - This is a "client-side" vs "server-side" decision.
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
-- [x]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
+- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -46,12 +46,9 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
   - [ ] Challenge 1: Standing Ovation
     - A problem concerned with optimal iteration
   - [ ] Infinite House of pancakes
-    - <description to come>
   - [ ] Challenge 3: Dijkstra
-    - <description to come>
   - [ ] Challenge 4: Ominous Omino
-    - <description to come>
-- [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.    
+- [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 - [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
 - [ ]  Course: [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)    
 - [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum - as an android app
@@ -67,8 +64,8 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript    
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ]  Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
-- [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
-  - Still has [a good video on __MetaObject goodness__](https://vimeo.com/97415345) ;)
+- [ ]  Book: [JavaScript Spessore](https://github.com/raganwald/javascript-spessore)  - or use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
+  - Has [a good video on __MetaObject goodness__](https://vimeo.com/97415345) ;)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages  
 - [ ]  Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)    
 - [ ]  Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
